@@ -1,3 +1,7 @@
 screenshot.png
 logo.png
 README.txt
+node_modules
+.sass-cache
+css
+js
